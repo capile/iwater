@@ -338,9 +338,6 @@ button{
     line-height:150px;
     font-size:90px;
 }
-.banner {
-  text-align: center;
-}
 table{border-spacing:0;width:100%;border-bottom:0.25em solid #0f80cd;}
 th{background:#0f80cd;color:#c9e9fa;font-weight:600;padding:0.5em 0.5em 0.25em 0.5em;}
 td{border-bottom:1px solid #0f80cd;}

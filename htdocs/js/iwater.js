@@ -468,7 +468,7 @@ function pronto(d)
     }
     iwater.init();
     if(window.location.href.search(/^https?:\/\//)>-1)
-        $('a:not([href^=#])').bind('click', carrega);
+        $('a:not([href^=#]):not([href^=http])').bind('click', carrega);
 }
 function carrega()
 {

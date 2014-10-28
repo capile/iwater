@@ -19,6 +19,12 @@ input, select, option, button{
   font: 400 20px/20px 'Open_Sans', serif;
 }
 
+.iwater {
+    text-decoration:none;
+  }
+.iwater:hover {
+    color:#fff;
+  }
 .header{
     position:relative;
     width:90%;

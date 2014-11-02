@@ -1,5 +1,4 @@
-var dados = [
-    { acao:'Beber um copo de água', gasto: 2, unidade: 1, medida:'minuto', tipo:'doméstico' },
+var dados = [   
     { acao:'Lavar as mãos', gasto: 12, unidade: 1, medida:'minuto', tipo:'doméstico' }, 
     { acao:'Torneira aberta', gasto: 12, unidade: 1, medida:'minuto', tipo:'doméstico' },
     { acao:'Torneira pingando', gasto: 20, unidade: 1, medida:'minuto', tipo:'doméstico'},

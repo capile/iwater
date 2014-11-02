@@ -33,7 +33,6 @@ var iwater={ gastoIdeal: 120, gastoAlerta: 150, gastoMaximo: 165 };
 
 /*! iWater by Victor Capilé */
 var dados = [
-    { acao:'Beber um copo de água', gasto: 2, unidade: 1, medida:'minuto', tipo:'doméstico' },
     { acao:'Lavar as mãos', gasto: 12, unidade: 1, medida:'minuto', tipo:'doméstico' }, 
     { acao:'Torneira aberta', gasto: 12, unidade: 1, medida:'minuto', tipo:'doméstico' },
     { acao:'Torneira pingando', gasto: 20, unidade: 1, medida:'minuto', tipo:'doméstico'},
@@ -79,7 +78,7 @@ var curiosidades= {
       'O Brasil tem 13,7% de toda água doce do planeta, sendo que 80% desse total está na Bacia Amazônica.',
       'Uma pessoa pode sobreviver um mês sem alimentar-se, mas só sete dias sem beber água.',
       'De toda água utilizada no mundo, 10% vai para o consumo humano, 20% é para uso industrial e 70% é usado na agricultura.',
-      'Os mares e oceanos são responsáveis pela produção de 90% do oxigénio existente na atmosfera.',
+      'Os mares e oceanos são responsáveis pela produção de 90% do oxigênio existente na atmosfera.',
       'Os oceanos contém mais de 1 300 000 000 km3 de água.',
       '1,1 bilhão de pessoas em todo o mundo vivem sem água potável.',
       'Para cada tonelada de papel virgem, doze árvores são derrubadas.',

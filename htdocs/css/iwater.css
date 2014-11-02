@@ -475,8 +475,8 @@ output:after {
 
 
 .mensagem {display:inline-block;position:absolute;font-weight:0.75em;line-height:1.25em}
-.mensagem .erro   {border:3px solid #990000;color:#600;background:#fff;margin-left:0.5em;border-radius:0 1em 1em 1em;max-width:70%;padding:0.5em;}
-.mensagem .sucesso{border:3px solid #009900;color:#060;background:#fff;margin-left:0.5em;border-radius:0 1em 1em 1em;max-width:70%;padding:0.5em;}
+.mensagem .erro   {border:3px solid #990000;color:#600;background:#fff;margin-left:0.5em;border-radius:0 1em 1em 1em;max-width:80%;padding:0.5em;}
+.mensagem .sucesso{border:3px solid #009900;color:#060;background:#fff;margin-left:0.5em;border-radius:0 1em 1em 1em;max-width:80%;padding:0.5em;}
 .pequeno{font-size:0.75em;line-height:0.75em;}
 
 

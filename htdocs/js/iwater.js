@@ -282,13 +282,13 @@ iwater.paraCronometro = function(id)
 iwater.novoConsumo = function(f)
 {
     if(f.elements.gasto.selectedIndex<=0) {
-        erro('Ôpa, você não escolheu o consumo...', f.elements.gasto);
+        erro('Você não escolheu o consumo!', f.elements.gasto);
         return false;
     } else if(f.elements.duracao.value=='') {
-        erro('Ôpa, você não marcou a duração...', f.elements.duracao);
+        erro('Você não marcou a duração!', f.elements.duracao);
         return false;
     } else if(f.elements.quando.value=='') {
-        erro('Ôpa, você não marcou quando...', f.elements.quando);
+        erro('Você não marcou quando!', f.elements.quando);
         return false;
     }
     var dado = dados[f.elements.gasto.options[f.elements.gasto.selectedIndex].value];

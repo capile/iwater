@@ -47,6 +47,20 @@ h3 {
 	margin-top: 5%;
 
 }
+.link_iwater {
+  font-size: 4em;
+  width: 30em;
+  height: 50em;
+  color: #8CC9F2;
+  background: #14364e;
+  border-radius: 8px; 
+  text-align: center;
+}
+.link_iwater:hover {
+  color: #fff; 
+  text-decoration: none;
+  transition-duration: 1.2s;
+}
 .icon-arrows-ccw{
 	font-size:5em;
 	text-align:center; 

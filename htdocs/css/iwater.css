@@ -130,14 +130,14 @@ a {
   text-decoration:none; 
 }
 .donate {
+  text-align: center;
   font-size: 0.8em;
-  margin-left: 35%;
+  margin-left: 37%;
   width: 25%;
   height: 50%;
   color: #8CC9F2;
   background: #14364e;
-  border-radius: 10px; 
-  text-align: center;
+  border-radius: 10px;
 }
 .donate:hover {
   color: #fff; 

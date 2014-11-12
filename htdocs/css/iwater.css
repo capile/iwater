@@ -272,7 +272,25 @@ h2 .icon-lightbulb {
   display:inline-block;
   vertical-align:bottom;
 }
-
+.app {
+  font-size: 0.5em;
+  text-align: center;
+  color: #14364e;
+}
+.link_iwater {
+  font-size: 4em;
+  width: 30em;
+  height: 50em;
+  color: #8CC9F2;
+  background: #14364e;
+  border-radius: 8px; 
+  text-align: center;
+}
+.link_iwater:hover {
+  color: #fff; 
+  text-decoration: none;
+  transition-duration: 1.2s;
+}
 #curiosidade:before {
   position:absolute;
   right:0px;
